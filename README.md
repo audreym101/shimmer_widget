@@ -10,5 +10,5 @@ https://www.canva.com/design/DAG1hSN4_OU/o4WtbZ2i9BEuCA34B5stKQ/edit?utm_content
 example: ![Library by elye](https://github.com/user-attachments/assets/83fea6c3-a6e5-4388-8e74-8f9091c2be06)
 <img width="2064" height="1592" alt="image" src="https://github.com/user-attachments/assets/7d5e9f48-398e-4fa1-85ca-3d5d6308c316" />
 
-
-
+## Attributes:
+baseColor, highlightColor, and child
