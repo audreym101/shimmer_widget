@@ -1,16 +1,14 @@
-# shimmer_w
+# shimmer_widget 
 
-A new Flutter project.
+Shimmer in Flutter is a widget that adds a glowing placeholder effect while content is loading. Instead of showing a blank screen, it shows a skeleton layout with a shimmer effect, improving the user experience significantly
 
-## Getting Started
+## presentation slides 
 
-This project is a starting point for a Flutter application.
+https://www.canva.com/design/DAG1hSN4_OU/o4WtbZ2i9BEuCA34B5stKQ/edit?utm_content=DAG1hSN4_OU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-A few resources to get you started if this is your first Flutter project:
+## shimer_widget demo
+example: ![Library by elye](https://github.com/user-attachments/assets/83fea6c3-a6e5-4388-8e74-8f9091c2be06)
+<img width="2064" height="1592" alt="image" src="https://github.com/user-attachments/assets/7d5e9f48-398e-4fa1-85ca-3d5d6308c316" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
